@@ -1,0 +1,4 @@
+:application: redmine-staging
+:deploy_to: /srv/redmine-staging
+:domain: staging.ppm.monarchmedia.com
+:session_key: '3c4d6fe44f52f8e00d1a1cf3a8f6912dc84f8089d6fca41b15ca540473d19d63c19cd2857b1ebc5a'

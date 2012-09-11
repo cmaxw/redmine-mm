@@ -1,0 +1,11 @@
+--- 
+production: 
+  :smtp_settings: 
+    :authentication: :plain
+    :user_name: redmine@monarchmedia.com
+    :enable_starttls_auto: true
+    :address: smtp.gmail.com
+    :port: 587
+    :domain: smtp.gmail.com
+    :password: ppm71b92be1
+  :delivery_method: :async_smtp
